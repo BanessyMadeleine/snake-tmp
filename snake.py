@@ -2,7 +2,8 @@
 
 import pyxel
 
-pyxel.init(30, 30, fps=8)
+pyxel.init(30, 30, fps=8) #on change la vitesse du jeu
+
 
 snake_geometry = [
     [10, 15],
